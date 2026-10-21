@@ -1,0 +1,391 @@
+39
+AVN ID: 17
+Airline name: AirBlue
+Flight number: 7
+Aircraft type: Commercial
+Speed recorded vs. permissible: 4 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 22:27:57
+Total fine amount (including service fee): PKR 575000
+Payment status: Paid
+Due date: 2025-05-10 02:27:57
+----------------------------------------
+AVN ID: 18
+Airline name: Fed EX
+Flight number: 9
+Aircraft type: Cargo
+Speed recorded vs. permissible: 3 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 22:29:57
+Total fine amount (including service fee): PKR 805000
+Payment status: Unpaid
+Due date: 2025-05-10 02:29:57
+----------------------------------------
+AVN ID: 19
+Airline name: PIA
+Flight number: 2
+Aircraft type: Commercial
+Speed recorded vs. permissible: 4 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 22:29:59
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 02:29:59
+----------------------------------------
+AVN ID: 20
+Airline name: Fed EX
+Flight number: 9
+Aircraft type: Cargo
+Speed recorded vs. permissible: 222 vs. [250, 463]
+AVN issuance date and time: 2025-05-07 22:30:01
+Total fine amount (including service fee): PKR 805000
+Payment status: Unpaid
+Due date: 2025-05-10 02:30:01
+----------------------------------------
+AVN ID: 21
+Airline name: Pakistan AirForce
+Flight number: 10
+Aircraft type: Military
+Speed recorded vs. permissible: 0 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 22:30:01
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 02:30:01
+----------------------------------------
+AVN ID: 22
+Airline name: PIA
+Flight number: 2
+Aircraft type: Commercial
+Speed recorded vs. permissible: 268 vs. [800, 900]
+AVN issuance date and time: 2025-05-07 22:30:05
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 02:30:05
+----------------------------------------
+AVN ID: 23
+Airline name: PIA
+Flight number: 3
+Aircraft type: Commercial
+Speed recorded vs. permissible: 5 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 22:30:05
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 02:30:05
+----------------------------------------
+AVN ID: 24
+Airline name: PIA
+Flight number: 3
+Aircraft type: Commercial
+Speed recorded vs. permissible: 1 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 22:30:29
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 02:30:29
+----------------------------------------
+AVN ID: 25
+Airline name: PIA
+Flight number: 2
+Aircraft type: Commercial
+Speed recorded vs. permissible: 5 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 22:30:31
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 02:30:31
+----------------------------------------
+AVN ID: 26
+Airline name: PIA
+Flight number: 3
+Aircraft type: Commercial
+Speed recorded vs. permissible: 239 vs. [250, 463]
+AVN issuance date and time: 2025-05-07 22:30:33
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 02:30:33
+----------------------------------------
+AVN ID: 27
+Airline name: Blue Dart
+Flight number: 12
+Aircraft type: Cargo
+Speed recorded vs. permissible: 3 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 22:30:33
+Total fine amount (including service fee): PKR 805000
+Payment status: Unpaid
+Due date: 2025-05-10 02:30:33
+----------------------------------------
+AVN ID: 28
+Airline name: PIA
+Flight number: 3
+Aircraft type: Commercial
+Speed recorded vs. permissible: 365 vs. [800, 900]
+AVN issuance date and time: 2025-05-07 22:30:35
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 02:30:35
+----------------------------------------
+AVN ID: 29
+Airline name: AirBlue
+Flight number: 6
+Aircraft type: Commercial
+Speed recorded vs. permissible: 5 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 22:30:37
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 02:30:37
+----------------------------------------
+AVN ID: 30
+Airline name: AirBlue
+Flight number: 6
+Aircraft type: Commercial
+Speed recorded vs. permissible: 181 vs. [250, 463]
+AVN issuance date and time: 2025-05-07 22:30:41
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 02:30:41
+----------------------------------------
+AVN ID: 31
+Airline name: AirBlue
+Flight number: 6
+Aircraft type: Commercial
+Speed recorded vs. permissible: 265 vs. [800, 900]
+AVN issuance date and time: 2025-05-07 22:30:43
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 02:30:43
+----------------------------------------
+AVN ID: 32
+Airline name: AirBlue
+Flight number: 7
+Aircraft type: Commercial
+Speed recorded vs. permissible: 0 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 22:30:43
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 02:30:43
+----------------------------------------
+AVN ID: 33
+Airline name: Fed EX
+Flight number: 9
+Aircraft type: Cargo
+Speed recorded vs. permissible: 2 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 22:30:45
+Total fine amount (including service fee): PKR 805000
+Payment status: Unpaid
+Due date: 2025-05-10 02:30:45
+----------------------------------------
+AVN ID: 18
+Airline name: Fed EX
+Flight number: 8
+Aircraft type: Cargo
+Speed recorded vs. permissible: 3 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 22:35:29
+Total fine amount (including service fee): PKR 805000
+Payment status: Unpaid
+Due date: 2025-05-10 02:35:29
+----------------------------------------
+AVN ID: 19
+Airline name: Fed EX
+Flight number: 8
+Aircraft type: Cargo
+Speed recorded vs. permissible: 159 vs. [250, 463]
+AVN issuance date and time: 2025-05-07 22:35:33
+Total fine amount (including service fee): PKR 805000
+Payment status: Unpaid
+Due date: 2025-05-10 02:35:33
+----------------------------------------
+AVN ID: 20
+Airline name: Blue Dart
+Flight number: 12
+Aircraft type: Cargo
+Speed recorded vs. permissible: 3 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 22:35:33
+Total fine amount (including service fee): PKR 805000
+Payment status: Unpaid
+Due date: 2025-05-10 02:35:33
+----------------------------------------
+AVN ID: 21
+Airline name: Fed EX
+Flight number: 8
+Aircraft type: Cargo
+Speed recorded vs. permissible: 452 vs. [800, 900]
+AVN issuance date and time: 2025-05-07 22:35:35
+Total fine amount (including service fee): PKR 805000
+Payment status: Unpaid
+Due date: 2025-05-10 02:35:35
+----------------------------------------
+AVN ID: 22
+Airline name: Blue Dart
+Flight number: 12
+Aircraft type: Cargo
+Speed recorded vs. permissible: 180 vs. [250, 463]
+AVN issuance date and time: 2025-05-07 22:35:37
+Total fine amount (including service fee): PKR 805000
+Payment status: Unpaid
+Due date: 2025-05-10 02:35:37
+----------------------------------------
+AVN ID: 23
+Airline name: PIA
+Flight number: 3
+Aircraft type: Commercial
+Speed recorded vs. permissible: 4 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 22:35:37
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 02:35:37
+----------------------------------------
+AVN ID: 24
+Airline name: PIA
+Flight number: 3
+Aircraft type: Commercial
+Speed recorded vs. permissible: 3 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 22:38:07
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 02:38:07
+----------------------------------------
+AVN ID: 25
+Airline name: PIA
+Flight number: 2
+Aircraft type: Commercial
+Speed recorded vs. permissible: 5 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 22:38:09
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 02:38:09
+----------------------------------------
+AVN ID: 26
+Airline name: AirBlue
+Flight number: 7
+Aircraft type: Commercial
+Speed recorded vs. permissible: 5 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 22:38:11
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 02:38:11
+----------------------------------------
+AVN ID: 27
+Airline name: PIA
+Flight number: 2
+Aircraft type: Commercial
+Speed recorded vs. permissible: 460 vs. [800, 900]
+AVN issuance date and time: 2025-05-07 22:38:15
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 02:38:15
+----------------------------------------
+AVN ID: 28
+Airline name: AirBlue
+Flight number: 6
+Aircraft type: Commercial
+Speed recorded vs. permissible: 1 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 22:38:15
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 02:38:15
+----------------------------------------
+AVN ID: 29
+Airline name: Fed EX
+Flight number: 8
+Aircraft type: Cargo
+Speed recorded vs. permissible: 0 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 22:38:52
+Total fine amount (including service fee): PKR 805000
+Payment status: Unpaid
+Due date: 2025-05-10 02:38:52
+----------------------------------------
+AVN ID: 30
+Airline name: PIA
+Flight number: 2
+Aircraft type: Commercial
+Speed recorded vs. permissible: 1 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 22:38:54
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 02:38:54
+----------------------------------------
+AVN ID: 31
+Airline name: Fed EX
+Flight number: 8
+Aircraft type: Cargo
+Speed recorded vs. permissible: 153 vs. [250, 463]
+AVN issuance date and time: 2025-05-07 22:38:56
+Total fine amount (including service fee): PKR 805000
+Payment status: Unpaid
+Due date: 2025-05-10 02:38:56
+----------------------------------------
+AVN ID: 32
+Airline name: PIA
+Flight number: 2
+Aircraft type: Commercial
+Speed recorded vs. permissible: 314 vs. [800, 900]
+AVN issuance date and time: 2025-05-07 22:39:00
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 02:39:00
+----------------------------------------
+AVN ID: 33
+Airline name: PIA
+Flight number: 3
+Aircraft type: Commercial
+Speed recorded vs. permissible: 0 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 22:39:00
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 02:39:00
+----------------------------------------
+AVN ID: 34
+Airline name: PIA
+Flight number: 2
+Aircraft type: Commercial
+Speed recorded vs. permissible: 1 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 23:04:58
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 03:04:58
+----------------------------------------
+AVN ID: 35
+Airline name: Blue Dart
+Flight number: 12
+Aircraft type: Cargo
+Speed recorded vs. permissible: 3 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 23:05:00
+Total fine amount (including service fee): PKR 805000
+Payment status: Unpaid
+Due date: 2025-05-10 03:05:00
+----------------------------------------
+AVN ID: 36
+Airline name: PIA
+Flight number: 2
+Aircraft type: Commercial
+Speed recorded vs. permissible: 190 vs. [250, 463]
+AVN issuance date and time: 2025-05-07 23:05:02
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 03:05:02
+----------------------------------------
+AVN ID: 37
+Airline name: PIA
+Flight number: 2
+Aircraft type: Commercial
+Speed recorded vs. permissible: 448 vs. [800, 900]
+AVN issuance date and time: 2025-05-07 23:05:04
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 03:05:04
+----------------------------------------
+AVN ID: 38
+Airline name: AirBlue
+Flight number: 6
+Aircraft type: Commercial
+Speed recorded vs. permissible: 1 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 23:05:04
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 03:05:04
+----------------------------------------
+AVN ID: 39
+Airline name: Pakistan AirForce
+Flight number: 10
+Aircraft type: Military
+Speed recorded vs. permissible: 5 vs. [15, 30]
+AVN issuance date and time: 2025-05-07 23:05:06
+Total fine amount (including service fee): PKR 575000
+Payment status: Unpaid
+Due date: 2025-05-10 03:05:06
+----------------------------------------
